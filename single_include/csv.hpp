@@ -33,7 +33,7 @@ SOFTWARE.
  *  @brief Defines functionality needed for basic CSV parsing
  */
 
-
+#include <math.h>
 #include <deque>
 #include <iterator>
 #include <memory>
